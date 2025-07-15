@@ -1,4 +1,4 @@
 flask
 flask_cors
 waitress
-argostranslate==1.5.2
+argostranslate==1.4.0
